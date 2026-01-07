@@ -1,0 +1,14 @@
+[
+  {
+    "aircraft": "A320",
+    "texture": "textures/a320.png"
+  },
+  {
+    "aircraft": "A321",
+    "texture": "textures/a321neo.png"
+  },
+  {
+    "aircraft": "B777",
+    "texture": "textures/b777.png"
+  }
+]
