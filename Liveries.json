@@ -1,0 +1,14 @@
+{
+  "name": "Fly Pakistan",
+  "icao": "FPK",
+  "country": "Pakistan",
+  "hub": "OPKC",
+  "liveries": [
+    {
+      "aircraft": "B777",
+      "name": "Fly Pakistan B777-300ER",
+      "texture": "textures/b777.png",
+      "thumbnail": "thumbnails/b777.png"
+    }
+  ]
+}
