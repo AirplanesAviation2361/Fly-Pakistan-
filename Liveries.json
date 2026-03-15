@@ -1,14 +1,14 @@
-{
-  "name": "Fly Pakistan",
-  "icao": "FPK",
-  "country": "Pakistan",
-  "hub": "OPKC",
-  "liveries": [
-    {
-      "aircraft": "B777",
-      "name": "Fly Pakistan B777-300ER",
-      "texture": "textures/b777.png",
-      "thumbnail": "thumbnails/b777.png"
-    }
-  ]
-}
+"name": "Fly Pakistan",
+    "color": "green",
+    "bgcolor": "red",
+    "aircrafts": {
+        "24": {
+            "name": "Boeing 777-340ER",
+            "liveries": [
+              {
+                "name": "Standard livery",
+                "texture": [
+                    "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+                    "https://i.ibb.co/Fbns6XbC/A350-1.png"
+                 ],
+                 "credits": "𝑵𝒊𝒄𝒌𝒚"
