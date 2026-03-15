@@ -1,6 +1,6 @@
 [
   {
     "aircraft": "B777",
-    "texture": "textures/b777.png"
+    "texture": "https://i.ibb.co/bjnXRdkc/IMG-2364.jpg"
   }
 ]
