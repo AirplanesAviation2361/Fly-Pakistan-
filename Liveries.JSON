@@ -15,8 +15,7 @@
  
           "credits": "AirplanesAviation2361"
         }
-      ]
-    }
-  }
-}
-
+      ],
+        "labels": [
+            "Specular Shader",
+            "Texture"      
