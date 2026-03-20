@@ -27,7 +27,7 @@
         {
           "name": "Landmark livery",
           "texture": [
-"",
+"https://raw.githubusercontent.com/AirplanesAviation2361/Fly-Pakistan-/refs/heads/main/Texture",
 "https://i.ibb.co/SX8QX3gT/IMG-2369.jpg"
 ],
  
@@ -35,5 +35,4 @@
         }
       ],
         "labels": [
-            "Specular Shader",
             "Texture"      
