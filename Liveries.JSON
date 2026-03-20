@@ -20,3 +20,20 @@
             "Specular Shader",
             "Texture"      
 
+
+
+      "name": "Airbus A320neo",
+      "liveries": [
+        {
+          "name": "Landmark livery",
+          "texture": [
+"",
+"https://i.ibb.co/SX8QX3gT/IMG-2369.jpg"
+],
+ 
+          "credits": "AirplanesAviation2361"
+        }
+      ],
+        "labels": [
+            "Specular Shader",
+            "Texture"      
