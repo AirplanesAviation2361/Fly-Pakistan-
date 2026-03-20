@@ -1,5 +1,5 @@
 {
-    "name": "Fly Pakistan", "// Fly Pakistan"
-    "color": "Green,red,lime", "// Black"
-    "bgcolor": "white",      "// White"
+    "name": "Fly Pakistan",
+    "color": "Green,red,lime", 
+    "bgcolor": "white",      
     "aircrafts": "{B-777-300ER}"
