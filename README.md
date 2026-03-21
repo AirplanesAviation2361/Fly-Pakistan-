@@ -10,3 +10,6 @@ This project follows the official GeoFS Virtual Airline guidelines and is compat
 - Green tail inspired by the Pakistan
 - Lime engines
 - red star on the tail and right next on the text "Fly Pakistan"
+
+
+Inspired by the geofs fandom
