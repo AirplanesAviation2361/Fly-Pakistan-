@@ -35,4 +35,22 @@
         }
       ],
         "labels": [
-            "Texture"      
+            "Texture"     
+
+
+
+   "name": "Boeing 787-10",
+      "liveries": [
+        {
+          "name": "Standard livery",
+          "texture": [
+"https://raw.githubusercontent.com/AirplanesAviation2361/Fly-Pakistan-/refs/heads/main/Texture",
+"https://i.ibb.co/PZCLMHvX/B777.jpg"
+],
+ 
+          "credits": "AirplanesAviation2361"
+        }
+      ],
+        "labels": [
+            "Specular Shader",
+            "Texture"    
